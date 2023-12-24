@@ -11,30 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Informatics, University of Sussex (ongoing)
+* Gatsby Bridging Programme, Mathematics for Computational Neuroscience and Machine Learning, UCL (Summer 2023)
+* MSc in Artificial Intelligence and Adaptive Systems, University of Sussex, 2021-2022
+* BSc in Neuroscience with Cognitive Science, University of Sussex, 2018-2021
 
-Work experience
+
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* **AI Ethics Representative** for [MetaTool](https://www.metatool-project.eu/) (Autumn 2023 - Ongoing)
+  * Participated in Working Group discussions for a Portfolio of projects  ('Awareness Inside') funded by the EU EIC Pathfinder Challenge
+  * Engaged with panels discussing the ethical implications of AI
+  * Helped draft roadmap for Working Group activities
+
+* **Gatsby Bridging Programme, UCL** (Summer, 2023)
+  * 7 week postgraduate course in Mathematics for Computational Neuroscience and Machine Learning run by the Gatsby Computational Neuroscience Unit
+  * Linear algebra, Calculus, Probability theory, ODEs, Fourier Transforms
+
+* **Research Assistant**, Neuromorphic Computing Group, University of Sussex (Summer, 2021)
+  * Helped develop benchmark dataset of dynamic vision sensor data ([Turner et al., 2022](https://dl.acm.org/doi/abs/10.1145/3517343.3517378))
+  * Conducted research project to improve 'sim-to-real' generalisation during training by synthesising and injecting noise into dataset (a novel application of 'domain randomisation', see [James et al., 2017](https://proceedings.mlr.press/v78/james17a/james17a.pdf) ).
+  * OpenCV, Docker, Linux command line
+  * Supervisor: Professor Thomas Nowotny
+
+
+* **Web developer** (December 2017 - February 2021)
+  * NCompass: Web design and digital services agency
+  * HTML, CSS, Google Analytics, Wordpress, Magento, Google Adwords, Git
+  * Wesbite design and development, database management, marketing  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Git
+* Web development
 
 Publications
 ======
@@ -54,6 +65,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
